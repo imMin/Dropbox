@@ -21,6 +21,7 @@ Complete user stories:
 
 
 GIF walkthrough of all user stories:
-![Video Walkthrough]()
+
+![Video Walkthrough](https://cloud.githubusercontent.com/assets/8554507/7559565/9a5f5218-f76d-11e4-9da9-bedb24862f8b.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
